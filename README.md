@@ -1,10 +1,10 @@
-# 📌 Form Validation Using HTML, CSS & JavaScript
+# Form Validation Using HTML, CSS & JavaScript
 
 A responsive and interactive Form Validation project developed using HTML, CSS, and JavaScript. This project validates user inputs before form submission and provides instant feedback messages for invalid fields.
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 This project demonstrates how client-side form validation works using JavaScript. The form checks whether the entered details are valid and prevents submission if any required field is missing or incorrect.
 
@@ -19,20 +19,20 @@ It also includes dynamic error messages and password visibility toggle functiona
 
 ---
 
-# ✨ Features
+# Features
 
-✅ Responsive User Interface  
-✅ Real-time Form Validation  
-✅ Email Validation using Regex  
-✅ Password Show/Hide Toggle  
-✅ Error Message Handling  
-✅ Prevents Empty Form Submission  
-✅ Beginner-Friendly JavaScript Logic  
-✅ Clean UI Design  
+ Responsive User Interface  
+ Real-time Form Validation  
+ Email Validation using Regex  
+ Password Show/Hide Toggle  
+ Error Message Handling  
+ Prevents Empty Form Submission  
+ Beginner-Friendly JavaScript Logic  
+ Clean UI Design  
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -42,7 +42,7 @@ It also includes dynamic error messages and password visibility toggle functiona
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 Form-Validation-Project/
@@ -56,29 +56,29 @@ Form-Validation-Project/
 
 ---
 
-# 📋 Validation Rules
+#  Validation Rules
 
-## 👤 Full Name Validation
+##  Full Name Validation
 - Field cannot be empty
 - User must enter a valid name
 
-## 📧 Email Validation
+##  Email Validation
 - Checks proper email format
 - Uses Regular Expressions (Regex)
 
-## 🔒 Password Validation
+##  Password Validation
 - Password field cannot be empty
 - Password visibility toggle included
 
-## 🎂 Date of Birth Validation
+## Date of Birth Validation
 - User must select a valid date
 
-## ⚧ Gender Validation
+## Gender Validation
 - User must select one option
 
 ---
 
-# 🧠 Concepts Used
+#  Concepts Used
 
 - DOM Manipulation
 - Event Handling
@@ -90,34 +90,9 @@ Form-Validation-Project/
 
 ---
 
-# 🎯 Learning Outcomes
 
-Through this project, I learned:
 
-- How to validate forms using JavaScript
-- How to handle user input dynamically
-- How to improve user experience using instant validation
-- How DOM manipulation works
-- How Regex is used for email validation
-- How frontend validation improves data accuracy
-
----
-
-# 💻 How to Run the Project
-
-1. Download or Clone the repository
-
-```bash
-git clone https://github.com/your-username/form-validation-project.git
-```
-
-2. Open the project folder
-
-3. Run `index.html` in any web browser
-
----
-
-# 📸 Project Preview
+# Project Preview
 
 The project contains:
 - Responsive Form Layout
@@ -127,26 +102,18 @@ The project contains:
 
 ---
 
-# 🔍 Sample Functionalities
+# Sample Functionalities
 
-### ✔ Valid Input
+###  Valid Input
 - Form submits successfully
 
-### ❌ Invalid Input
+###  Invalid Input
 - Error message displayed instantly
 
 ---
 
-# 📚 Reference
 
-This project was developed for learning purposes and inspired by frontend validation tutorials and web development resources.
-
-Reference Tutorial:
-- https://www.codingnepalweb.com/implement-form-validation-html-javascript/
-
----
-
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Add Backend Validation
 - Store Data using Database
